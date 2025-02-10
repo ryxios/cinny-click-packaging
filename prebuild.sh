@@ -7,10 +7,10 @@ REPO_URL="https://github.com/cinnyapp/cinny"
 REPO_BRANCH="dev"
 APP_TARGET="dist"
 
-REPO_VERSION="2.1.3"
+REPO_VERSION="4.2.3"
 CLICK_VERSION_PREFIX=""
 
-NODE_VERSION="v16.15.0"
+NODE_VERSION="v23.7.0"
 
 
 walk () {
